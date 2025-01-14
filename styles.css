@@ -230,7 +230,7 @@ html {
 /* ********************************** */
 .banner {
 	background-image: linear-gradient(100deg, #000000, #00000020),
-		url('img/_david\ 1\ \(1\).png');
+		url('img/portada.png');
         height: 60rem;
         background-size: cover;
 	background-position: center;
@@ -354,7 +354,7 @@ html {
 
 .category-psicologo {
 	background-image: linear-gradient(#00000080, #00000080),
-	url('img/cerebro.png');
+	url('img/psico.png');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
